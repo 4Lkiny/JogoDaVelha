@@ -3,6 +3,8 @@
 # Professor de programação
 # www.parisotto.net
 # modificado por wendy (21/05/2024)
+# Ok, Wendel - Prof. Parisotto
+
 casas = []
 i = 1
 while i <= 9:
