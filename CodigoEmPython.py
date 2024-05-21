@@ -2,7 +2,7 @@
 # AUTOR: Edson Luiz Parisotto
 # Professor de programação
 # www.parisotto.net
-#modificado por wendy (21/05/2024)
+# modificado por wendy (21/05/2024)
 casas = []
 i = 1
 while i <= 9:
